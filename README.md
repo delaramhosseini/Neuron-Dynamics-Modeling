@@ -21,11 +21,3 @@ This project focuses on simulating and analyzing various neuron models, includin
 
 5. Perform experiments across a range of parameters to analyze the behavior of different neuron models.
    - Document the results and draw conclusions on the effects of various parameters on neuron dynamics.
-
-## Requirements
-- Python and relevant libraries for simulation (e.g., NumPy, Matplotlib).
-
-## Usage
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
